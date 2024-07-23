@@ -33,7 +33,7 @@ The Active Peak fitness manager is perfect for fitness enthusiasts and professio
 
 - <strong>Active Peak Link</strong>
 
-- [Website-Link](https://active-peak2.onrender.com/)
+- [Website-Link](https://active-peak-airb.onrender.com/)
 
 - <strong>Active Peak Screenshots</strong>
 
